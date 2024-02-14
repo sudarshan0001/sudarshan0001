@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sudarshan
 - 👀 I’m interested in data science
-- 🌱 I’m currently doing my bachelor in computer science
+- 🌱 I’m currently doing my Masters in Artificial Intelligence
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
